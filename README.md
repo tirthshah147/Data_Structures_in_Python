@@ -5,7 +5,7 @@
 3) Queues
 
 <b>Searching</b>
-1) Binary Search
+1) Binary Search<br>
 <b>Sorting</b>
 1) Bubble Sort
 2) Merge Sort
