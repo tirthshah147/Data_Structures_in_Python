@@ -6,7 +6,7 @@
 
 <b>Searching</b>
 <li>1) Binary Search</li>
-
+<br>
 <b>Sorting</b>
 <li>1) Bubble Sort</li>
 <li>2) Merge Sort</li>
