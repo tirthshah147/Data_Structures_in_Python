@@ -6,7 +6,7 @@
 
 <b>Searching</b>
 1) Binary Search
-<b>Sorting></b>
+<b>Sorting</b>
 1) Bubble Sort
 2) Merge Sort
 3) Quick Sort
