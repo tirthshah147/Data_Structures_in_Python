@@ -3,6 +3,9 @@
 1) Linked List
 2) Stack (through linked list)
 3) Queues
+4) Hash Table
+5) Binary Trees
+6) Binary Search Trees
 
 <b>Searching</b>
 <li>1) Binary Search</li>
