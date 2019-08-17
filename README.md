@@ -1,4 +1,4 @@
-# Data Structures,Searching,Sorting Algoritms Implementation in Python
+# Data Structures in Python
 <b>Data Structures</b>
 1) Linked List
 2) Stack (through linked list)
