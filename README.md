@@ -5,7 +5,8 @@
 3) Queues
 4) Hash Table
 5) Binary Trees
-6) Binary Search Trees
+6) Binary Search Tree
+7) Graphs 
 
 <b>Searching</b>
 <li>1) Binary Search</li>
